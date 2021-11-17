@@ -1,6 +1,6 @@
 # carregar os pacotes -----------------------------------------------------
 
-install.packages("tidyverse")
+#install.packages("tidyverse")
 
 library(tidyverse) #carregar o pacote tidyverse
 
