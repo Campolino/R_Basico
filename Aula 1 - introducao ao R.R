@@ -21,7 +21,7 @@
 # objetos
 a <- 2
 b <- "Rstudio"
-nome = "lucas"
+nome = "Rafael"
 nome
 
 vetor1 <- 1:10
